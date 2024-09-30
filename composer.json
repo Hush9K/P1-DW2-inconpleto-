@@ -1,0 +1,14 @@
+{
+    "name": "alunos/karyan",
+    "autoload": {
+        "psr-4": {
+            "Alunos\\Karyan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wes"
+        }
+    ],
+    "require": {}
+}
